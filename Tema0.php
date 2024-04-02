@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Hola Mundo -  Qué tal todo??-----? </p>'; ?>
-<?php echo 'cambios en el programa'; ?>
+<?php echo 'cambios en el programa.... mas cambios aqui en texto'; ?>
  </body>
 </html>
 
